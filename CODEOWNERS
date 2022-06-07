@@ -1,2 +1,2 @@
-values-dev.js    @dev-owners
-values-sit.js    @sit-owners
+values-dev.js    @paas2/dev-owners
+values-sit.js    @paas2/sit-owners
